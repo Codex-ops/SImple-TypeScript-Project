@@ -1,6 +1,6 @@
-let userInput: unknown;
+//let userInput: unknown; //For Testing purposes
 
-enum Role { ADMIN, USER, READ_ONLY } 
+enum Role { ADMIN, USER, READ_ONLY } // Default roles
 
 const person = {
     name: "John",
